@@ -21,5 +21,8 @@ Yo voy al Instituto El Puig Castellar que esta en la  **Av. de l'Anselm de Riu, 
 
 ![text alternatiu](Puig.jpeg)
 
-La web del [Instituto](https://elpuig.xeill.net/)
 
+Esta es la web del [Instituto](https://elpuig.xeill.net/) por si te interesa o te gustaria informarte sobre este centro.
+
+# Mi juego favorito.
+En esta otra [Pagina]() te explico mi juego favorito.
