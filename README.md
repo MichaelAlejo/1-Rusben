@@ -1,9 +1,6 @@
 # Presentacion
-Holas me llamo Michael un gusto
+Muy buenas a todos, me llamo Michael Alejandro Castillo Girón, y estoy encantado de conocerte.
 ## Que me gusta
-- Videojuegos [Google](mando.html)
-- Comida
-- Dormir
-- Nada
+A mi me gusta jugar a videojuegos
 ## A que colegio voy
 Yo voy al Instituto El Puig Castellar
