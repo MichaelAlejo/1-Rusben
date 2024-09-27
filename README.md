@@ -25,4 +25,4 @@ Yo voy al Instituto El Puig Castellar que esta en la  **Av. de l'Anselm de Riu, 
 Esta es la web del [Instituto](https://elpuig.xeill.net/) por si te interesa o te gustaria informarte sobre este centro.
 
 # Mi juego favorito.
-En esta otra [Pagina](Valorant) te explico mi juego favorito.
+En esta otra [Pagina](https://github.com/MichaelAlejo/1-Rusben/blob/main/valorant.md)) te explico mi juego favorito.
