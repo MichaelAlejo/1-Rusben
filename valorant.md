@@ -1,8 +1,8 @@
 # **Valorant** 
 ![text alternatiu](valorant.png)
-## ¿Que es valorant?
+## ¿Que es Valorant?
 *Valorant* es un shooter táctico en primera persona de estilo hero shooter, desarrollado y publicado por Riot Games.
-## ¿Cuando salio valorant?
+## ¿Cuando salio Valorant?
 El desarrollo del juego comenzó en **2014**, y fue anunciado bajo el nombre en clave Project A en **octubre de 2019**. La beta cerrada, con acceso limitado, se lanzó el **7 de abril de 2020**, y el juego **fue lanzado oficialmente el 2 de junio de 2020**. Inicialmente, Valorant estaba diseñado exclusivamente para Windows, pero en junio de 2024 se añadió soporte para las consolas Xbox Series X/S y PlayStation 5
 ## ¿Como funciona?
 En este juego, los jugadores toman el control de diferentes agentes. El modo principal de juego enfrenta a dos equipos de cinco jugadores cada uno, que asumen los roles de atacantes o defensores. Los agentes poseen habilidades únicas y emplean un sistema económico para adquirir habilidades y armas.
@@ -22,8 +22,8 @@ Estan el rol:
 
 ![text alternatiu](clove.webp)
 ## Mapas
-En el juego hay diferentes mapas, pero hay algunos que les encanta a la comunidad y otros que la comunidad no les gusta mucho. 
-### Los mapas mas gustados son:
+En el juego hay muchos diferentes mapas, pero hay algunos que les encanta a la comunidad y otros que la comunidad no les gusta mucho. 
+### Unos de los mapas mas gustados son:
 
 ![Sunset](sunset.webp)
 Sunset
@@ -34,7 +34,7 @@ Haven
 ![Pearl](pearl.webp)
 Pearl
 
-### Y los odiados por la comunidad son:
+### Y unos de los odiados por la comunidad son:
 
 ![text alternatiu](abyss.webp)
 Abyss
